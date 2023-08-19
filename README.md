@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Kumar Theppa</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<p>
-  Passionate software developer with expertise in Java programming, Spring Boot, data structures, and object-oriented programming. Proficient in building robust applications using the Spring Boot framework. Successfully completed projects including an Instagram backend clone and a Music Streaming API, demonstrating my ability to design and implement complex systems. Well-versed in creating efficient algorithms and data structures to solve challenging problems, as showcased through my contributions to open-source projects and over [number] coding questions solved on platforms like LeetCode. Check out my repositories for code examples, Java projects, Spring Boot applications, and innovative solutions to intricate programming challenges.
-</p> 
+<p>As a fresh software enthusiast, my expertise lies in Java, Spring Boot, data structures, and object-oriented programming. My proficiency in designing optimized algorithms and leveraging data structures allows me to solve intricate problems efficiently. With excellent communication skills, I thrive in team settings and excel at conveying technical concepts clearly. I'm enthusiastic about launching my career in software development and actively exploring opportunities to contribute my skills to impactful projects.</p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikumartheppa&label=Profile%20views&color=0e75b6&style=flat" alt="saikumartheppa" /> </p>
 
