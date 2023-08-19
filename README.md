@@ -1,6 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm Sai Kumar Theppa</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p>As a fresh software enthusiast, my expertise lies in Java, Spring Boot, data structures, and object-oriented programming. My proficiency in designing optimized algorithms and leveraging data structures allows me to solve intricate problems efficiently. With excellent communication skills, I thrive in team settings and excel at conveying technical concepts clearly. I'm enthusiastic about launching my career in software development and actively exploring opportunities to contribute my skills to impactful projects.</p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikumartheppa&label=Profile%20views&color=0e75b6&style=flat" alt="saikumartheppa" /> </p>
