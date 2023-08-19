@@ -1,17 +1,22 @@
 <h1 align="center">Hi 👋, I'm Sai Kumar Theppa</h1>
-<h3 align="center">Passionate software developer with expertise in Java programming, Spring Boot, data structures, and object-oriented programming. Proficient in building robust applications using the Spring Boot framework. Successfully completed projects including an Instagram backend clone and a Music Streaming API, demonstrating my ability to design and implement complex systems. Well-versed in creating efficient algorithms and data structures to solve challenging problems, as showcased through my contributions to open-source projects and over [number] coding questions solved on platforms like LeetCode. Check out my repositories for code examples, Java projects, Spring Boot applications, and innovative solutions to intricate programming challenges.</h3>
+<h3 align="center">A passionate backend developer from India</h3>
+<p>
+  Passionate software developer with expertise in Java programming, Spring Boot, data structures, and object-oriented programming. Proficient in building robust applications using the Spring Boot framework. Successfully completed projects including an Instagram backend clone and a Music Streaming API, demonstrating my ability to design and implement complex systems. Well-versed in creating efficient algorithms and data structures to solve challenging problems, as showcased through my contributions to open-source projects and over [number] coding questions solved on platforms like LeetCode. Check out my repositories for code examples, Java projects, Spring Boot applications, and innovative solutions to intricate programming challenges.
+</p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikumartheppa&label=Profile%20views&color=0e75b6&style=flat" alt="saikumartheppa" /> </p>
 
+- 🌱 I’m currently learning **Full Stack Web Development**
+
+- 💬 Ask me about **DataStructure and Algorithms , SpringBoot , Java**
+ 
 - 🔭 I’m currently working on [Instagram Backend Design](https://github.com/Saikumartheppa/InstagramBackend.git)
 
-- 🌱 I’m currently learning **Front end development skills**
-
-- 👨‍💻 All of my projects are available at [[GitHub]https://github.com/Saikumartheppa?tab=repositories]([GitHub]https://github.com/Saikumartheppa?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Saikumartheppa?tab=repositories)
 
 - 📫 How to reach me **saikumartheppa06@gmail.com**
 
-- 📄 Know about my experiences [[Resume]https://docs.google.com/document/d/1-M41S67fYhY7JunrdfUxlik-QsK4Q7KknGpNt0Vq770/edit?usp=drivesdk]([Resume]https://docs.google.com/document/d/1-M41S67fYhY7JunrdfUxlik-QsK4Q7KknGpNt0Vq770/edit?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1-M41S67fYhY7JunrdfUxlik-QsK4Q7KknGpNt0Vq770/edit?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
