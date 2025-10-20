@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **saikumartheppa06@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1-M41S67fYhY7JunrdfUxlik-QsK4Q7KknGpNt0Vq770/edit?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1T9SHz_i20rvvzPh9DG1duiSP7O0HohkJ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
