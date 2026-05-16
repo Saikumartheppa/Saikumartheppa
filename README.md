@@ -1,66 +1,136 @@
-<h1 align="center">Hi 👋, I'm Sai Kumar Theppa</h1>
-<h3 align="center">Front-End Developer | JavaScript | React | UI Automation | QA Engineer at Entropik</h3>
+<div align="center">
 
-<p align="center">
-Passionate about building interactive, high-performance, and user-focused web applications.  
-With a strong foundation in JavaScript, React, and UI testing, I bring both developer precision and a quality-driven mindset to every project I work on.
-</p>
+# Sai Kumar Theppa
 
----
+### Software Engineer — React · TypeScript · Frontend Systems
 
-### 🌱 **About Me**
-- 💻 I’m currently working as an **Associate QA Engineer at Entropik**  
-- 🌐 Exploring **Front-End Development** and crafting responsive, dynamic user interfaces  
-- ⚡ Skilled in **React, JavaScript, HTML, CSS**, and **UI Automation (WebdriverIO, Mocha)**  
-- 🚀 Love turning ideas into reality through clean, maintainable code and seamless UI/UX  
-- 💬 Ask me about **React, JavaScript, Web Testing, and Front-End Best Practices**  
-- 📫 Reach me at **saikumartheppa06@gmail.com**  
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1T9SHz_i20rvvzPh9DG1duiSP7O0HohkJ/view?usp=sharing)
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikumartheppa)
+[![LeetCode](https://img.shields.io/badge/LeetCode_400+-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/saikumartheppa06)
+[![Resume](https://img.shields.io/badge/Resume-View_PDF-EA4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1baZKVnwzzGPFMksaFhXGvpVEFM46FjVH/view?usp=sharing)
+[![Email](https://img.shields.io/badge/Gmail-saikumartheppa06@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saikumartheppa06@gmail.com)
 
-### 💡 **What I’ve Worked On**
-- 🔭 Built **a Video Streaming Platform** using YouTube’s Real-Time API  
-- 🎬 Developed a **Netflix Clone** integrated with GPT-based movie recommendations  
-- ⚙️ Contributed to **front-end performance optimization** at Entropik — improving responsiveness by 20% and reducing UI bugs by 30%  
-- 🧩 Collaborated with developers on **reusable UI components** for design consistency  
-- 📊 Validated key UI features such as **weights, filters, and drop-off analytics**, enhancing user insights and data accuracy  
+</div>
 
 ---
 
-### 🛠️ **Tech Stack**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-</p>
+## About
+
+Frontend engineer with **2+ years** building high-performance React + TypeScript interfaces at **Entropik** — an enterprise SaaS platform used by **10,000+ users**. I specialize in rendering optimization, scalable component architecture, and real-time UX.
+
+My work consistently delivers measurable outcomes: **15–70% improvements** in load times, responsiveness, and system stability — not estimates, production numbers.
+
+Targeting **SDE1 / SDE2 front-end roles**.
 
 ---
 
-### 🧠 **Core Strengths**
-- Front-End Development (React, JavaScript, HTML, CSS)  
-- UI Automation (WebdriverIO, Mocha, Chai)  
-- Responsive Design & Cross-Browser Testing  
-- Problem Solving (400+ DSA questions on LeetCode)  
-- Agile Methodologies | Git | API Testing  
+## Experience
+
+### Software Engineer — Entropik Tech *(Aug 2024 – Present)*
+> React · TypeScript · Redux Toolkit · Chakra UI · Jest
+
+- Built analytics dashboards handling large-scale behavioral datasets — **60–70% improvement in data rendering** via virtualization and memoization
+- Reduced redundant API calls by **30%** through scalable Redux Toolkit state management architecture
+- Diagnosed and resolved critical production issues in data-heavy components — **30% reduction in frontend incidents**
+- Delivered **AI Moderator workflows** and prototype interaction modules used in live enterprise research studies
+- Led cross-functional debugging with clients and Product Success teams — reduced turnaround on high-priority defects
+
+### Frontend Developer Intern — Geekster *(Oct 2022 – Dec 2023)*
+> React · REST APIs · Atomic Design
+
+- Built React applications with REST API integrations for auth, content feeds, and user workflows
+- **25% rendering performance improvement** by optimizing state updates and eliminating unnecessary re-renders
+- Implemented reusable UI components following **Atomic Design principles**, reducing feature development time
 
 ---
 
-### 📈 **GitHub Stats**
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikumartheppa&show_icons=true&locale=en&layout=compact" alt="saikumartheppa" /></p>
+## Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikumartheppa&show_icons=true&locale=en" alt="saikumartheppa" /></p>
+### 📺 Video Streaming & Engagement Platform
+> React · TypeScript · Redux Toolkit · Jest
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikumartheppa&" alt="saikumartheppa" /></p>
+- Container-presenter architecture separating business logic cleanly from UI
+- **40% reduction in initial load time** via route-based code splitting, lazy loading, and persistent state caching
+- Optimized API interactions with debouncing and memoization to cut unnecessary network requests
+
 
 ---
 
-### 🌐 **Connect with Me**
-<p align="left">
-<a href="https://linkedin.com/in/saikumartheppa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/saikumartheppa06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/saikumartheppa06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" /></a>
-</p>
+
+## Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white)
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Testing**
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+
+---
+
+## By the Numbers
+
+| Metric | Impact |
+|---|---|
+| Data rendering performance | ↑ 60–70% |
+| Initial load time (streaming platform) | ↓ 40% |
+| Redundant API calls | ↓ 30% |
+| Frontend incidents in production | ↓ 30% |
+| Rendering performance (intern project) | ↑ 25% |
+| Users on platform | 10,000+ |
+
+---
+
+## Problem Solving
+
+```
+Platform  : LeetCode 
+Solved    : 500+ problems
+Topics    : Arrays · Strings · DP · Sliding Window · Trees · Recursion 
+```
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=saikumartheppa&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumarthepss&layout=compact&hide_border=true&theme=default" height="150"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**Open to SDE1 / SDE2 Front-End roles · Open to relocation**
+<br/>
+📧 saikumartheppa06@gmail.com · [LinkedIn](https://linkedin.com/in/saikumartheppa) · [Resume](https://drive.google.com/file/d/1baZKVnwzzGPFMksaFhXGvpVEFM46FjVH/view?usp=sharing)
+
+</div>
