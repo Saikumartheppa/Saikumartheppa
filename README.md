@@ -25,7 +25,7 @@ Targeting **SDE1 / SDE2 front-end roles**.
 
 ## Experience
 
-### Software Engineer — Entropik Tech *(Aug 2024 – Present)*
+### Software Engineer @Entropik Tech *(Aug 2024 – Present)*
 > React · TypeScript · Redux Toolkit · Chakra UI · Jest
 
 - Built analytics dashboards handling large-scale behavioral datasets  **60–70% improvement in data rendering** via virtualization and memoization
@@ -34,7 +34,7 @@ Targeting **SDE1 / SDE2 front-end roles**.
 - Delivered **AI Moderator workflows** and prototype interaction modules used in live enterprise research studies
 - Led cross-functional debugging with clients and Product Success teams  reduced turnaround on high-priority defects
 
-### Frontend Developer Intern — Geekster *(Oct 2022 – Dec 2023)*
+### Frontend Developer Intern @Geekster *(Oct 2022 – Dec 2023)*
 > React · REST APIs · Atomic Design
 
 - Built React applications with REST API integrations for auth, content feeds, and user workflows
