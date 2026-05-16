@@ -2,7 +2,7 @@
 
 # Sai Kumar Theppa
 
-### Software Engineer — React · TypeScript · Frontend Systems
+### Software Engineer | React · TypeScript · Frontend Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikumartheppa)
 [![LeetCode](https://img.shields.io/badge/LeetCode_500+-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/saikumartheppa06)
@@ -15,9 +15,9 @@
 
 ## About
 
-Frontend engineer with **2+ years** building high-performance React + TypeScript interfaces at **Entropik** — an enterprise SaaS platform used by **10,000+ users**. I specialize in rendering optimization, scalable component architecture, and real-time UX.
+Frontend engineer with **2+ years** building high-performance React + TypeScript interfaces at **Entropik**  an enterprise SaaS platform used by **10,000+ users**. I specialize in rendering optimization, scalable component architecture, and real-time UX.
 
-My work consistently delivers measurable outcomes: **15–70% improvements** in load times, responsiveness, and system stability — not estimates, production numbers.
+My work consistently delivers measurable outcomes: **15–70% improvements** in load times, responsiveness, and system stability  not estimates, production numbers.
 
 Targeting **SDE1 / SDE2 front-end roles**.
 
@@ -28,11 +28,11 @@ Targeting **SDE1 / SDE2 front-end roles**.
 ### Software Engineer — Entropik Tech *(Aug 2024 – Present)*
 > React · TypeScript · Redux Toolkit · Chakra UI · Jest
 
-- Built analytics dashboards handling large-scale behavioral datasets — **60–70% improvement in data rendering** via virtualization and memoization
+- Built analytics dashboards handling large-scale behavioral datasets  **60–70% improvement in data rendering** via virtualization and memoization
 - Reduced redundant API calls by **30%** through scalable Redux Toolkit state management architecture
-- Diagnosed and resolved critical production issues in data-heavy components — **30% reduction in frontend incidents**
+- Diagnosed and resolved critical production issues in data-heavy components  **30% reduction in frontend incidents**
 - Delivered **AI Moderator workflows** and prototype interaction modules used in live enterprise research studies
-- Led cross-functional debugging with clients and Product Success teams — reduced turnaround on high-priority defects
+- Led cross-functional debugging with clients and Product Success teams  reduced turnaround on high-priority defects
 
 ### Frontend Developer Intern — Geekster *(Oct 2022 – Dec 2023)*
 > React · REST APIs · Atomic Design
