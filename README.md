@@ -5,7 +5,7 @@
 ### Software Engineer — React · TypeScript · Frontend Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikumartheppa)
-[![LeetCode](https://img.shields.io/badge/LeetCode_400+-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/saikumartheppa06)
+[![LeetCode](https://img.shields.io/badge/LeetCode_500+-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/saikumartheppa06)
 [![Resume](https://img.shields.io/badge/Resume-View_PDF-EA4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1baZKVnwzzGPFMksaFhXGvpVEFM46FjVH/view?usp=sharing)
 [![Email](https://img.shields.io/badge/Gmail-saikumartheppa06@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saikumartheppa06@gmail.com)
 
